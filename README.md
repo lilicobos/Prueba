@@ -9,4 +9,5 @@ VIVO EN ESPAÑA
 
 
 ### insertaremos una imagen
+![astro](img/IMG-0362.jpg)
 
